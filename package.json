@@ -1,0 +1,43 @@
+{
+  "name": "only-tolerable-light-theme",
+  "displayName": "Only Tolerable Light Theme",
+  "description": "I mean, c'mon",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "publisher": "GabeRose",
+  "author": {
+    "name": "Gabriel Rosales",
+    "url": "https://www.linkedin.com/in/gabriel-rosales/"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Light Theme",
+    "color-theme",
+    "Only Tolerable",
+    "Tolerable",
+    "White Theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Only Tolerable Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Only-Tolerable-Light-Theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NotoriousGOR/only-tolerable-light-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/NotoriousGOR/only-tolerable-light-theme/issues",
+    "email": "brittany.chiang@gmail.com"
+  }
+}
