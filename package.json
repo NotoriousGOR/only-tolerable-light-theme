@@ -2,7 +2,7 @@
   "name": "only-tolerable-light-theme",
   "displayName": "The Only Tolerable Light Theme",
   "description": "I mean, c'mon",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.79.0"
   },
