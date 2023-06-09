@@ -1,4 +1,4 @@
-# Only Tolerable Light Theme
+# The Only Tolerable Light Theme
 
 I mean 🤷‍♂️
 
@@ -9,10 +9,10 @@ I mean 🤷‍♂️
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
 2. Launch Visual Studio Code
 3. Choose **Extensions** from menu
-4. Search for `Only Tolerable Light Theme`
+4. Search for `The Only Tolerable Light Theme`
 5. Click **Install** to install it
 6. Click **Reload** to reload VS Code
-7. File > Preferences > Color Theme > **Only Tolerable Light Theme**
+7. File > Preferences > Color Theme > **The Only Tolerable Light Theme**
 
 
 ## Icon Theme

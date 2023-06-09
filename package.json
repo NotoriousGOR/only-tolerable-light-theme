@@ -1,6 +1,6 @@
 {
   "name": "only-tolerable-light-theme",
-  "displayName": "Only Tolerable Light Theme",
+  "displayName": "The Only Tolerable Light Theme",
   "description": "I mean, c'mon",
   "version": "0.0.6",
   "engines": {
@@ -26,7 +26,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Only Tolerable Light Theme",
+        "label": "The Only Tolerable Light Theme",
         "uiTheme": "vs",
         "path": "./themes/Only-Tolerable-Light-Theme.json"
       }
