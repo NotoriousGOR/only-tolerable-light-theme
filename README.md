@@ -1,6 +1,9 @@
 # Only Tolerable Light Theme
 
 I mean 🤷‍♂️
+
+![demo](https://raw.githubusercontent.com/NotoriousGOR/only-tolerable-light-theme/main/images/demo-1.png)
+
 # Installation
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
@@ -15,7 +18,3 @@ I mean 🤷‍♂️
 ## Icon Theme
 
 The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
-
-
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
